@@ -48,6 +48,8 @@ right: 2rem;
 </style>
 """
 
+st.markdown(page_bg_img, unsafe_allow_html=True)
+
 #-------------------------------------------------------Button---------------------------------------
 
 # CSS and HTML to center-align the button and customize its appearance
@@ -93,4 +95,4 @@ st.markdown(centered_button, unsafe_allow_html=True)
 
 
 #-----------------------------------------------------------------------------------------
-st.markdown(page_bg_img, unsafe_allow_html=True)
+
