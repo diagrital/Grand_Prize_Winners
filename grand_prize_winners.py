@@ -18,7 +18,7 @@ def get_img_as_base64(file):
     return base64.b64encode(data).decode()
 
 
-#img = get_img_as_base64(r"C:\\Users\\aspirex99\\Desktop\\Images to be used\\COROMANDEL.NS-4966f312.png")
+#img = get_img_as_base64(r"https://gcdnb.pbrd.co/images/YtAsRPjbYOLF.gif?o=1")
 x = " "
 
 page_bg_img = f"""
