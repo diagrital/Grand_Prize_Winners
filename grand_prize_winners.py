@@ -24,7 +24,7 @@ x = " "
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
-background-image: url("https://gcdnb.pbrd.co/images/ZAuOcDMgtCIC.gif?o=1");
+background-image: url("https://gcdnb.pbrd.co/images/YtAsRPjbYOLF.gif?o=1");
 background-size: 100%;
 background-position: top center;
 background-repeat: non-repeat;
